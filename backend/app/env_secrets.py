@@ -1,2 +1,2 @@
 USERNAME="postgres"
-PASSWORD="postgre"
+PASSWORD="postgres"
